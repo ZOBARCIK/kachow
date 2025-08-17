@@ -1,0 +1,2 @@
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\bin\Release\net8.0-windows\win-x64\publish\kachow.pdb
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\bin\Release\net8.0-windows\win-x64\publish\kachow.exe

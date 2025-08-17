@@ -1,0 +1,17 @@
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\bin\Release\net8.0-windows\win-x64\kachow.exe
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\bin\Release\net8.0-windows\win-x64\kachow.deps.json
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\bin\Release\net8.0-windows\win-x64\kachow.runtimeconfig.json
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\bin\Release\net8.0-windows\win-x64\kachow.dll
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\bin\Release\net8.0-windows\win-x64\kachow.pdb
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Release\net8.0-windows\win-x64\kachow.Form1.resources
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Release\net8.0-windows\win-x64\kachow.Properties.Resources.resources
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Release\net8.0-windows\win-x64\kachow.csproj.GenerateResource.cache
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Release\net8.0-windows\win-x64\kachow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Release\net8.0-windows\win-x64\kachow.AssemblyInfoInputs.cache
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Release\net8.0-windows\win-x64\kachow.AssemblyInfo.cs
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Release\net8.0-windows\win-x64\kachow.csproj.CoreCompileInputs.cache
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Release\net8.0-windows\win-x64\kachow.dll
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Release\net8.0-windows\win-x64\refint\kachow.dll
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Release\net8.0-windows\win-x64\kachow.pdb
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Release\net8.0-windows\win-x64\kachow.genruntimeconfig.cache
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Release\net8.0-windows\win-x64\ref\kachow.dll

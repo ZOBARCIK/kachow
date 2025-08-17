@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Us2Ykjj/ED+akZdMG279iDaZ43VufTe6jAANPBtb0Ss6+XMX53/Rbpuxww+Lq9P+kHagixCiyCcUKivQWdtHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ardal\\OneDrive\\Masaüstü\\kachow\\kachow\\kachow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ardal\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

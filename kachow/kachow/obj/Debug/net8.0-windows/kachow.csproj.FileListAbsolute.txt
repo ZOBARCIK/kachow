@@ -1,0 +1,26 @@
+E:\CloudFolder\Drive\Drive'ım\Shared Files\CS\dump\kachow\kachow\obj\Debug\net8.0-windows\kachow.Form1.resources
+E:\CloudFolder\Drive\Drive'ım\Shared Files\CS\dump\kachow\kachow\obj\Debug\net8.0-windows\kachow.csproj.GenerateResource.cache
+E:\CloudFolder\Drive\Drive'ım\Shared Files\CS\dump\kachow\kachow\obj\Debug\net8.0-windows\kachow.GeneratedMSBuildEditorConfig.editorconfig
+E:\CloudFolder\Drive\Drive'ım\Shared Files\CS\dump\kachow\kachow\obj\Debug\net8.0-windows\kachow.AssemblyInfoInputs.cache
+E:\CloudFolder\Drive\Drive'ım\Shared Files\CS\dump\kachow\kachow\obj\Debug\net8.0-windows\kachow.AssemblyInfo.cs
+E:\CloudFolder\Drive\Drive'ım\Shared Files\CS\dump\kachow\kachow\obj\Debug\net8.0-windows\kachow.csproj.CoreCompileInputs.cache
+E:\CloudFolder\Drive\Drive'ım\Shared Files\CS\dump\kachow\kachow\obj\Debug\net8.0-windows\kachow.dll
+E:\CloudFolder\Drive\Drive'ım\Shared Files\CS\dump\kachow\kachow\obj\Debug\net8.0-windows\refint\kachow.dll
+E:\CloudFolder\Drive\Drive'ım\Shared Files\CS\dump\kachow\kachow\obj\Debug\net8.0-windows\kachow.pdb
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\bin\Debug\net8.0-windows\kachow.exe
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\bin\Debug\net8.0-windows\kachow.deps.json
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\bin\Debug\net8.0-windows\kachow.runtimeconfig.json
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\bin\Debug\net8.0-windows\kachow.dll
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\bin\Debug\net8.0-windows\kachow.pdb
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Debug\net8.0-windows\kachow.Form1.resources
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Debug\net8.0-windows\kachow.csproj.GenerateResource.cache
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Debug\net8.0-windows\kachow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Debug\net8.0-windows\kachow.AssemblyInfoInputs.cache
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Debug\net8.0-windows\kachow.AssemblyInfo.cs
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Debug\net8.0-windows\kachow.csproj.CoreCompileInputs.cache
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Debug\net8.0-windows\kachow.dll
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Debug\net8.0-windows\refint\kachow.dll
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Debug\net8.0-windows\kachow.pdb
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Debug\net8.0-windows\kachow.genruntimeconfig.cache
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Debug\net8.0-windows\ref\kachow.dll
+C:\Users\ardal\OneDrive\Masaüstü\kachow\kachow\obj\Debug\net8.0-windows\kachow.Properties.Resources.resources
